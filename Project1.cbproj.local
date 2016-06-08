@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2016/04/20 01:09:46.433,=C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/04/20 01:09:46.563,=C:\Users\joao\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2016/04/20 01:38:13.987,C:\Users\joao\Desktop\biblioteca math.cpp=C:\Users\joao\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2016/04/20 02:15:54.556,C:\Users\joao\Desktop\tomada de decisao.cpp=C:\Users\joao\Desktop\biblioteca math.cpp</Transaction>
+    <Transaction>2016/04/20 02:39:10.128,C:\Users\joao\Desktop\quem eh mais alto.cpp=C:\Users\joao\Desktop\tomada de decisao.cpp</Transaction>
+    <Transaction>2016/04/20 02:43:03.967,C:\Users\joao\Desktop\valor par ou valor impar.cpp=C:\Users\joao\Desktop\quem eh mais alto.cpp</Transaction>
+    <Transaction>2016/04/20 02:56:18.104,C:\Users\joao\Desktop\media aritmetica com aprovacao ou reprovacao.cpp=C:\Users\joao\Desktop\valor par ou valor impar.cpp</Transaction>
+    <Transaction>2016/04/20 03:08:03.956,C:\Users\joao\Desktop\promador com experiencia sim ou nao.cpp=C:\Users\joao\Desktop\media aritmetica com aprovacao ou reprovacao.cpp</Transaction>
+    <Transaction>2016/04/20 03:29:30.652,C:\Users\joao\Desktop\promador com experiencia usando operador logico &amp;&amp;.cpp=C:\Users\joao\Desktop\promador com experiencia sim ou nao.cpp</Transaction>
+    <Transaction>2016/04/20 03:37:34.647,C:\Users\joao\Desktop\Project1PCH1.h=C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/04/20 03:37:39.532,C:\Users\joao\Desktop\Project1.cbproj=C:\Users\joao\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
